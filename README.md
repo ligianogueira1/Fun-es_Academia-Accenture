@@ -1,2 +1,2 @@
-# Fun-es_Academia-Accenture
+# Funcoes_Academia-Accentu
 Resolução dos exercícios sobre Funções
